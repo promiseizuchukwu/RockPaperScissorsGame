@@ -1,2 +1,6 @@
 # Rock-Paper-Scissor
-A classic game - Rock, Paper, Scissors! Choose one of the three choices - and see if you can beat the computer. Will you win? The chance is random!
+
+It's a game of chance! Select rock, paper, or scissors and see if you can predict the computer's move.
+The chance is random!
+A classic game!!
+
